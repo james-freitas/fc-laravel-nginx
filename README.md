@@ -1,4 +1,4 @@
-# Sample LAravel application
+# Sample Laravel application
 Laravel application proxy reversed by a Nginx server
 
 ## ✔️ Requirements
